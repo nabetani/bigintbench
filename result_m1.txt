@@ -1,0 +1,50 @@
+make: Nothing to be done for `all'.
+make: Nothing to be done for `all'.
+go/m1
+8663
+8663
+        0.81 real         0.83 user         0.02 sys
+go/amd64
+8663
+8663
+        1.36 real         1.40 user         0.05 sys
+ruby/m1
+8663
+8663
+        2.80 real         2.76 user         0.03 sys
+ruby/amd64
+8663
+8663
+        2.76 real         2.72 user         0.02 sys
+node/m1
+8663n
+8663n
+        1.68 real         1.67 user         0.00 sys
+node/amd64
+8663n
+8663n
+        3.82 real         3.79 user         0.01 sys
+python3/m1
+8663
+8663
+        4.47 real         4.46 user         0.00 sys
+python3/amd64
+8663
+8663
+        4.36 real         4.32 user         0.01 sys
+clang/m1
+8663
+8663
+        4.49 real         4.48 user         0.00 sys
+gcc/m1
+8663
+8663
+        1.56 real         1.55 user         0.00 sys
+gcc/amd64
+8663
+8663
+        4.07 real         4.05 user         0.01 sys
+java/m1
+8663
+8663
+        2.63 real         4.39 user         0.12 sys
