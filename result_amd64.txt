@@ -1,0 +1,30 @@
+make: Nothing to be done for `all'.
+make: Nothing to be done for `amd64'.
+go/amd64
+8663
+8663
+        1.46 real         1.48 user         0.05 sys
+ruby/amd64
+8663
+8663
+        1.51 real         1.43 user         0.06 sys
+node/amd64
+8663n
+8663n
+        2.59 real         2.56 user         0.01 sys
+python3/amd64
+8663
+8663
+        4.91 real         4.89 user         0.01 sys
+clang/amd64
+8663
+8663
+        5.45 real         5.45 user         0.00 sys
+gcc/amd64
+8663
+8663
+        4.91 real         4.90 user         0.00 sys
+java/amd64
+8663
+8663
+        5.41 real         8.39 user         0.19 sys
