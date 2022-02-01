@@ -3,3 +3,6 @@ go/amd64
 go/m1
 java/BigIntBench.class
 venv
+cpp_boost/cpp_boost_clang
+cpp_boost/cpp_boost_gcc_amd64
+cpp_boost/cpp_boost_gcc_x64
